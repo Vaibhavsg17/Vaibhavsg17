@@ -12,9 +12,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/vaibhavsg17" target="blank"><img align="center" src="https://github.com/Vaibhavsg17/Vaibhavsg17/blob/main/twitter.png" alt="vaibhavsg17" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/vaibhav-gangurde" target="blank"><img align="center" src="https://github.com/Vaibhavsg17/Vaibhavsg17/blob/main/linkedin.png" alt="vaibhav-gangurde" height="30" width="40" /></a>
-<a href="https://instagram.com/vaibhavsg17" target="blank"><img align="center" src="https://github.com/Vaibhavsg17/Vaibhavsg17/blob/main/instagram.png" alt="vaibhavsg17" height="30" width="40" /></a>
+<a href="https://twitter.com/vaibhavsg17" target="blank">
+<img align="center" src="https://github.com/Vaibhavsg17/Vaibhavsg17/blob/main/twitter.png" alt="vaibhavsg17" height="40" width="40" /></a><br>
+<a href="https://linkedin.com/in/vaibhav-gangurde" target="blank">
+<img align="center" src="https://github.com/Vaibhavsg17/Vaibhavsg17/blob/main/linkedin.png" alt="vaibhav-gangurde" height="40" width="40" />
+</a><br>
+<a href="https://instagram.com/vaibhavsg17" target="blank">
+<img align="center" src="https://github.com/Vaibhavsg17/Vaibhavsg17/blob/main/instagram.png" alt="vaibhavsg17" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
