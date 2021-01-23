@@ -1,3 +1,4 @@
+![](https://github.com/JayantGoel001/JayantGoel001/blob/master/footer.png)
 <h1 align="center">Hi 👋, I'm Vaibhav Gangurde</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
