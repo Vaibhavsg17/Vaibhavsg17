@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhavsg17&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhavsg17" /> </p>
 
-- 🔭 I’m currently working on **Product landing page**
+- 🔭 I’m currently working on **[Learning ]**
 
 - 🌱 I’m currently learning **React**
 
@@ -48,7 +48,7 @@
 <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> 
 </a>
 <a href="https://git-scm.com/" target="_blank">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+<!-- <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> -->
 </a> 
 <a href="https://www.mongodb.com/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
