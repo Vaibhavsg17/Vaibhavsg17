@@ -2,15 +2,15 @@
 ![](https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/footer.png)
 
 <h1 align="center">Hi 👋, I'm Vaibhav Gangurde</h1>
-<h3 align="center">A passionate frontend developer/ mongodb developer from India</h3>
+<h3 align="center">A passionate frontend developer & mongodb developer from India</h3>
 
-- 💼 I’m currently Intern at **Orane Technologies**
+- 💼 I’m currently Intern at **Orane Technologies**.
 
-- 👨‍💻 My Role at Internship **MongoDB Developer**
+- 👨‍💻 My Role at Internship **MongoDB Developer**.
 
-- 📫 How to reach me <a href="mailto:gangurdevaibhav203@gmail.com">Mail Me</a>
+- 📫 How to reach me <a href="mailto:gangurdevaibhav203@gmail.com">Mail Me</a>.
 
-- ⚡ Fun fact **I think I am curious and am constantly learning**
+- ⚡ Fun fact **I think I am curious and am constantly learning**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
