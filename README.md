@@ -6,7 +6,7 @@
 
 - 💼 I’m currently Intern at **Orane Technologies**.
 
-- 👨‍💻 My Role at Internship **MongoDB Developer**.
+<!-- - 👨‍💻 My Role at Internship **MongoDB Developer**. -->
 
 - 📫 How to reach me <a href="mailto:gangurdevaibhav203@gmail.com">Mail Me</a>.
 
