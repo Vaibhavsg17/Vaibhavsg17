@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Gangurde</h1>
 <h3 align="center">A passionate front-end developer from India</h3>
 
-- 💼 I’m currently Intern at **Orane Technologies**.
+- 💼 Previously Intern at **Orane Technologies**.
 
 <!-- - 👨‍💻 My Role at Internship **MongoDB Developer**. -->
 
