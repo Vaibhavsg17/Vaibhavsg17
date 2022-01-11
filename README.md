@@ -6,6 +6,8 @@
 
 - 💼 Previously Software Engineer Intern at **Orane Technologies**.
 
+- 🔭 I’m currently working on **Paws - the stray animal help app**
+
 <!-- - 👨‍💻 My Role at Internship **MongoDB Developer**. -->
 
 - 📫 How to reach me <a href="mailto:gangurdevaibhav203@gmail.com">Mail Me</a>.
