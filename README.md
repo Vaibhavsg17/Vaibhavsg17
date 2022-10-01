@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Gangurde</h1>
 <h3 align="center">A passionate Software Engineer & UX/UI Designer from India</h3>
 
-- 💼 Previously Software Engineer Intern at **Orane Technologies**.
+- 💼 Previously Software Engineer Intern at **Orane Intelli Solutions**.
 
 - 🔭 I’m currently working on **Paws - the stray animal help app**.
 
