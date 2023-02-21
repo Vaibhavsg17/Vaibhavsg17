@@ -2,7 +2,7 @@
 ![](https://github.com/JayantGoel001/JayantGoel001/blob/master/PNG/footer.png)
 
 <h1 align="center">Hi 👋, I'm Vaibhav Gangurde</h1>
-<h3 align="center">A passionate Software Engineer & UX/UI Designer from India</h3>
+<h3 align="center">A passionate I.T Engineering Student from India</h3>
 
 - 💼 Previously Software Engineer Intern at **Orane Intelli Solutions**.
 
