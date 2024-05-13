@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on ML Mini Project<br><br>🌱 I’m currently learning Python<br><br>👨‍💻 All of my projects are available at (Coming soon)<br><br>⚡ Fun fact Coding can “power up” your brain
+🔭 I’m currently Contributing to GSSoc'24 & SSoC'24<br><br>🌱 I’m currently learning Python<br><br>👨‍💻 All of my projects are available at (Coming soon)<br><br>⚡ Fun fact Coding can “power up” your brain
 
 
 # 💻 Tech Stack:
