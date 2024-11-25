@@ -4,7 +4,7 @@
 
 # 💻 Tech Stack:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,mongodb,flutter,express,react,nodejs,typescript,next,mysql" />
+  <img src="https://skillicons.dev/icons?i=dart,flutter,js,mongodb,flutter,express,react,nodejs,typescript,next,mysql" />
 </p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,git,github,firebase,django,redis"/>
