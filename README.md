@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently Contributing to GSSoc'24 & SSoC'24<br><br>🌱 I’m currently exploring M.E.R.N Stack<br><br>👨‍💻 All of my projects are available at (Coming soon)<br><br>⚡ Fun fact Coding can “power up” your brain
+🔭 I’m currently Contributing to GSSoc'24 & SSoC'24<br><br>🌱 I’m currently exploring M.E.R.N Stack & AI <br><br>👨‍💻 All of my projects are available at vaibhavgangurde.vercel.app <br><br>⚡ Fun fact Coding can “power up” your brain
 
 
 # 💻 Tech Stack:
