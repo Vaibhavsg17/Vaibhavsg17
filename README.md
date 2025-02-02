@@ -12,7 +12,7 @@
   <img src="https://skillicons.dev/icons?i=docker,postman,vercel,linux,netlify,python,cpp" />
 </p>
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ---
