@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as Flutter Deveoper. <br><br>🌱 I’m currently exploring M.E.R.N Stack, DevOps & AI <br><br>👨‍💻 All of my projects are available at [Here](https://vaibhavgangurde.vercel.app/)  <br><br>⚡ Fun fact Coding can “power up” your brain
+ <br>🌱 I’m currently exploring M.E.R.N Stack, DevOps & AI <br><br>👨‍💻 All of my projects are available at [Here](https://vaibhavgangurde.vercel.app/)  <br><br>⚡ Fun fact Coding can “power up” your brain
 
 
 # 💻 Tech Stack:
